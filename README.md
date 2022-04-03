@@ -1,4 +1,4 @@
-# proj12
+# SIMPLE CHATBOT USING MACHINE LEARNING WITH PYTHON
 Simple bot which can be integrated into any platform depending on the data trained
 
 To add more training data edit the **intents.json** file and add as much as you want..... 
